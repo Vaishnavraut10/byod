@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/LOQ/OneDrive/Desktop/byod/app/page.js"],"sourcesContent":["\"use client\";\nimport Image from \"next/image\";\nimport Login from \"./Login/page\";\nexport default function Home() {\n  return (\n   <div>\n    <Login />\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AACA;AACA;AAFA;;;;AAGe,SAAS;IACtB,qBACC,8OAAC;kBACA,cAAA,8OAAC,+HAAK;;;;;;;;;;AAGV","debugId":null}}]
+}
