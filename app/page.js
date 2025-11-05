@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import Login from "./Login/page";
+import Login from "./login/page";
 export default function Home() {
   return (
    <div>
